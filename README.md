@@ -1,56 +1,62 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" alt="Java Logo"/>
+
 # IEEE Java Coding Practice
 
-This repository contains my Java solutions to coding exercises and programming problems from IEEE.
+**Java solutions to IEEE coding exercises focused on problem-solving, algorithms, and programming fundamentals.**
 
-The repository documents my practice as I work through different programming challenges, focusing on developing my problem-solving skills, understanding Java concepts, and improving the way I approach coding problems.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
-## What I Practice
+</div>
 
-The exercises cover different programming concepts, including:
+## Exercises
 
-* Problem-solving and algorithmic thinking
-* Java fundamentals
-* Variables and data types
-* Conditional statements
-* Loops
-* Methods
-* Arrays and collections
-* String manipulation
-* Object-oriented programming
-* Algorithms and data structures
+| #  | Problem                 | Key Concepts                                          |
+| -- | ----------------------- | ----------------------------------------------------- |
+| 01 | Addition                | Input/output, variables, arithmetic                   |
+| 02 | Greatest Common Divisor | Euclidean Algorithm, loops, modulo                    |
+| 03 | Matrix Exploration      | Multi-Source BFS, grids, shortest paths               |
+| 04 | Word Ordering           | Custom sorting, comparators, lexicographical ordering |
+
+## What I Practiced
+
+* Java input and output
+* Variables, loops, and conditional logic
+* Mathematical algorithms
+* Breadth-First Search (BFS)
+* Queues and grid traversal
+* Custom comparators
+* String and character manipulation
+* Time and space complexity
 
 ## Repository Structure
 
 ```text
 ieee-java-coding-practice/
 │
-├── problem-01/
-│   ├── README.md
-│   └── Main.java
+├── 01-addition/
+│   ├── Main.java
+│   └── README.md
 │
-├── problem-02/
-│   ├── README.md
-│   └── Main.java
+├── 02-greatest-common-divisor/
+│   ├── Main.java
+│   └── README.md
 │
-├── problem-03/
-│   ├── README.md
-│   └── Main.java
+├── 03-matrix-exploration/
+│   ├── Main.java
+│   └── README.md
+│
+├── 04-word-ordering/
+│   ├── Main.java
+│   └── README.md
 │
 └── README.md
 ```
 
-## Problem Documentation
+## Learning Focus
 
-Each problem is documented with:
+These exercises helped me progress from basic Java programming to more advanced problem-solving techniques, including the **Euclidean Algorithm**, **Multi-Source BFS**, and **custom sorting**.
 
-1. **Problem** – A brief summary of the coding challenge.
-2. **Approach** – How I broke down and approached the problem.
-3. **Solution** – My Java implementation.
-4. **Explanation** – An explanation of how the solution works.
-5. **What I Learned** – Key concepts or lessons from the exercise.
+This is a personal learning repository created to document my progress and strengthen my programming and algorithmic problem-solving skills.
 
-## Purpose
-
-This is a personal learning repository created to document my progress while practicing Java and solving programming problems.
-
-The repository will be updated as I complete additional exercises.
